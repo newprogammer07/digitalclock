@@ -1,2 +1,2 @@
 # digitalclock
-Here we use html Css and javascript
+Here we ere use only html Css and javascript
